@@ -21,6 +21,8 @@ dev-notes/
 │   └── packaging.md
 ├── shell/
 │   └── kill-process-on-port.md
+├── supabase/
+│   └── pgrst303-jwt-issued-at-future.md
 └── concepts/
     └── idempotency.md
 ```
@@ -71,6 +73,7 @@ Update this table as notes are added. It's the fastest way to browse without dig
 | Python | [venvs](python/venvs.md) | Creating and managing virtual environments |
 | Python | [packaging](python/packaging.md) | pyproject.toml, building, publishing |
 | Shell | [kill-process-on-port](shell/kill-process-on-port.md) | Handy grep/awk/find/sed snippets |
+| Supabase | [pgrst303-jwt-issued-at-future](pgrst303-jwt-issued-at-future.md) | PGRST303 JWT clock-skew error — cause and fix |
 | Concepts | [idempotency](concepts/idempotency.md) | What it means and why it matters |
 
 ## Conventions
