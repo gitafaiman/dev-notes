@@ -70,7 +70,7 @@ Update this table as notes are added. It's the fastest way to browse without dig
 | Docker | [compose basics](docker/compose-basics.md) | Common docker-compose commands and patterns |
 | Python | [venvs](python/venvs.md) | Creating and managing virtual environments |
 | Python | [packaging](python/packaging.md) | pyproject.toml, building, publishing |
-| Shell | [one-liners](shell/useful-one-liners.md) | Handy grep/awk/find/sed snippets |
+| Shell | [kill-process-on-port](shell/kill-process-on-port.md) | Handy grep/awk/find/sed snippets |
 | Concepts | [idempotency](concepts/idempotency.md) | What it means and why it matters |
 
 ## Conventions
