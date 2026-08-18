@@ -20,7 +20,7 @@ dev-notes/
 │   ├── venvs.md
 │   └── packaging.md
 ├── shell/
-│   └── useful-one-liners.md
+│   └── kill-process-on-port.md
 └── concepts/
     └── idempotency.md
 ```
