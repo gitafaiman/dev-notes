@@ -24,6 +24,8 @@ dev-notes/
 ├── supabase/
 │   ├── migration-workflow.md
 |   └── pgrst303-jwt-issued-at-future.md
+├── vercel/
+│   ├── commit-author-no-contributing-access.md
 └── concepts/
     └── idempotency.md
 ```
@@ -76,6 +78,7 @@ Update this table as notes are added. It's the fastest way to browse without dig
 | Shell | [kill-process-on-port](shell/kill-process-on-port.md) | Handy grep/awk/find/sed snippets |
 | Supabase | [migration-workflow](migration-workflow.md) | Schema migration workflow: branch → dev → PR → prod, essgourmet setup |
 | Supabase | [pgrst303-jwt-issued-at-future](pgrst303-jwt-issued-at-future.md) | PGRST303 JWT clock-skew error — cause and fix |
+| Verecl | [commit-author-no-contributing-access.md](commit-author-no-contributing-access.md) | Deploy blocked — commit author email doesn't map to a Vercel account, fix + prevention checklist |
 | Concepts | [idempotency](concepts/idempotency.md) | What it means and why it matters |
 
 ## Conventions
