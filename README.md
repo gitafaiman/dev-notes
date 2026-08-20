@@ -14,6 +14,8 @@ dev-notes/
 ├── git/
 │   ├── rebasing.md
 │   └── worktrees.md
+├── npm/
+│   ├── dev-server-custom-port.md
 ├── docker/
 │   └── compose-basics.md
 ├── python/
@@ -72,6 +74,7 @@ Update this table as notes are added. It's the fastest way to browse without dig
 |---|---|---|
 | Git | [rebasing](git/rebasing.md) | Interactive rebase, squashing, fixing history |
 | Git | [worktrees](git/worktrees.md) | Working on multiple branches at once |
+| NPM | [dev-server-custom-port](npm/dev-server-custom-port.md) | Override the dev server port for Next.js, Vite, CRA, and plain Node |
 | Docker | [compose basics](docker/compose-basics.md) | Common docker-compose commands and patterns |
 | Python | [venvs](python/venvs.md) | Creating and managing virtual environments |
 | Python | [packaging](python/packaging.md) | pyproject.toml, building, publishing |
